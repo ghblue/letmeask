@@ -1,28 +1,17 @@
 <h1 align="center">
   <img src="./src/assets/images/logo.svg"/>
 </h1>
-Letmeask e um app para gerenciar salas de perguntas e respostas, desenvolvido na 6 edição do NLW - Next Level Week proporcionado pela Rocketseat. <br />
+Letmeask is an app to manage question and answer rooms, developed in the 6th edition of NLW - Next Level Week provided by Rocketseat. <br />
 
-![Home](./.github/home-2021-06-25.png)
+![Home](./src/assets/images/notebook.jpg)
 
 <h3>
-  <a href="https://letmeask-nlw6-swart.vercel.app/">Deploy</a>
+  <a href="https://letmeask-c99ce.web.app/">Deploy</a>
 </h3>
 
-## Tecnlogias ultilizadas
+## Technologies
 
 - React
 - Sass
 - Typescript
 - Firebase
-
-## Desafios do proximo nivel
-
-- [x] Responsividade
-- [x] PWA
-- [x] Eslint & Prettier
-- [x] Deploy
-
-## Preview da responsividade
-
-![Home](./.github/responsive-2021-06-25.gif)
